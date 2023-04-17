@@ -1,7 +1,7 @@
 #include "utilities.h"
 #include <iostream>
 
-void Hello_Bitch(void)
+void hello_bitch(void)
 {
   std::cout << "Hello bitch\n";
 }
