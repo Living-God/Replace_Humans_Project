@@ -3,4 +3,4 @@
 
 void hello_bitch(void);
 
-#endif UTILITIES_H
+#endif /* UTILITIES_H */
